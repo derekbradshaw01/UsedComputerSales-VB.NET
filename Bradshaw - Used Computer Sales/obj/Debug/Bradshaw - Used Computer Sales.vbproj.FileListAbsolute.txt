@@ -1,0 +1,24 @@
+C:\Users\Derek\source\repos\Bradshaw - Used Computer Sales\Bradshaw - Used Computer Sales\bin\Debug\Bradshaw - Used Computer Sales.exe.config
+C:\Users\Derek\source\repos\Bradshaw - Used Computer Sales\Bradshaw - Used Computer Sales\bin\Debug\Bradshaw - Used Computer Sales.exe
+C:\Users\Derek\source\repos\Bradshaw - Used Computer Sales\Bradshaw - Used Computer Sales\bin\Debug\Bradshaw - Used Computer Sales.pdb
+C:\Users\Derek\source\repos\Bradshaw - Used Computer Sales\Bradshaw - Used Computer Sales\bin\Debug\Bradshaw - Used Computer Sales.xml
+C:\Users\Derek\source\repos\Bradshaw - Used Computer Sales\Bradshaw - Used Computer Sales\obj\Debug\Bradshaw - Used Computer Sales.vbprojAssemblyReference.cache
+C:\Users\Derek\source\repos\Bradshaw - Used Computer Sales\Bradshaw - Used Computer Sales\obj\Debug\Bradshaw___Used_Computer_Sales.Resources.resources
+C:\Users\Derek\source\repos\Bradshaw - Used Computer Sales\Bradshaw - Used Computer Sales\obj\Debug\Bradshaw - Used Computer Sales.vbproj.GenerateResource.cache
+C:\Users\Derek\source\repos\Bradshaw - Used Computer Sales\Bradshaw - Used Computer Sales\obj\Debug\Bradshaw - Used Computer Sales.vbproj.CoreCompileInputs.cache
+C:\Users\Derek\source\repos\Bradshaw - Used Computer Sales\Bradshaw - Used Computer Sales\obj\Debug\Bradshaw - Used Computer Sales.exe
+C:\Users\Derek\source\repos\Bradshaw - Used Computer Sales\Bradshaw - Used Computer Sales\obj\Debug\Bradshaw - Used Computer Sales.xml
+C:\Users\Derek\source\repos\Bradshaw - Used Computer Sales\Bradshaw - Used Computer Sales\obj\Debug\Bradshaw - Used Computer Sales.pdb
+C:\Users\Derek\source\repos\Bradshaw - Used Computer Sales\Bradshaw - Used Computer Sales\obj\Debug\Bradshaw___Used_Computer_Sales.UsedComputerSales.resources
+C:\Users\Derek\Documents\Frequent Flyers\School\Past Classes\CPT341\Bradshaw - Used Computer Sales\Bradshaw - Used Computer Sales\Bradshaw - Used Computer Sales\bin\Debug\Bradshaw - Used Computer Sales.exe.config
+C:\Users\Derek\Documents\Frequent Flyers\School\Past Classes\CPT341\Bradshaw - Used Computer Sales\Bradshaw - Used Computer Sales\Bradshaw - Used Computer Sales\bin\Debug\Bradshaw - Used Computer Sales.exe
+C:\Users\Derek\Documents\Frequent Flyers\School\Past Classes\CPT341\Bradshaw - Used Computer Sales\Bradshaw - Used Computer Sales\Bradshaw - Used Computer Sales\bin\Debug\Bradshaw - Used Computer Sales.pdb
+C:\Users\Derek\Documents\Frequent Flyers\School\Past Classes\CPT341\Bradshaw - Used Computer Sales\Bradshaw - Used Computer Sales\Bradshaw - Used Computer Sales\bin\Debug\Bradshaw - Used Computer Sales.xml
+C:\Users\Derek\Documents\Frequent Flyers\School\Past Classes\CPT341\Bradshaw - Used Computer Sales\Bradshaw - Used Computer Sales\Bradshaw - Used Computer Sales\obj\Debug\Bradshaw - Used Computer Sales.vbprojAssemblyReference.cache
+C:\Users\Derek\Documents\Frequent Flyers\School\Past Classes\CPT341\Bradshaw - Used Computer Sales\Bradshaw - Used Computer Sales\Bradshaw - Used Computer Sales\obj\Debug\Bradshaw___Used_Computer_Sales.UsedComputerSales.resources
+C:\Users\Derek\Documents\Frequent Flyers\School\Past Classes\CPT341\Bradshaw - Used Computer Sales\Bradshaw - Used Computer Sales\Bradshaw - Used Computer Sales\obj\Debug\Bradshaw___Used_Computer_Sales.Resources.resources
+C:\Users\Derek\Documents\Frequent Flyers\School\Past Classes\CPT341\Bradshaw - Used Computer Sales\Bradshaw - Used Computer Sales\Bradshaw - Used Computer Sales\obj\Debug\Bradshaw - Used Computer Sales.vbproj.GenerateResource.cache
+C:\Users\Derek\Documents\Frequent Flyers\School\Past Classes\CPT341\Bradshaw - Used Computer Sales\Bradshaw - Used Computer Sales\Bradshaw - Used Computer Sales\obj\Debug\Bradshaw - Used Computer Sales.vbproj.CoreCompileInputs.cache
+C:\Users\Derek\Documents\Frequent Flyers\School\Past Classes\CPT341\Bradshaw - Used Computer Sales\Bradshaw - Used Computer Sales\Bradshaw - Used Computer Sales\obj\Debug\Bradshaw - Used Computer Sales.exe
+C:\Users\Derek\Documents\Frequent Flyers\School\Past Classes\CPT341\Bradshaw - Used Computer Sales\Bradshaw - Used Computer Sales\Bradshaw - Used Computer Sales\obj\Debug\Bradshaw - Used Computer Sales.xml
+C:\Users\Derek\Documents\Frequent Flyers\School\Past Classes\CPT341\Bradshaw - Used Computer Sales\Bradshaw - Used Computer Sales\Bradshaw - Used Computer Sales\obj\Debug\Bradshaw - Used Computer Sales.pdb
